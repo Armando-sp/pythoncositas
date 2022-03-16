@@ -1,5 +1,6 @@
 esta es mi historia. 
 
-tengo 23 años, naci en venezuela
+tengo 23 años, naci en venezuela, vivo en maracay
 
-soy estudiante de economia de la uc, y quiero ser data scients 
+soy estudiante de economia de la uc, y quiero ser data scients; 
+y lo estoy logrando con platzi
