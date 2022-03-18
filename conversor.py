@@ -1,8 +1,8 @@
 def run():
     bolivares= float(input('Cuantos bolivares tienes?: '))
-    precio_dolar= float(4.44)
+    precio_dolar= float(4.5)
     dolares= str(round(bolivares/ precio_dolar, 2))
-    print('tienes '+ dolares + ' $')
+    print('llevas '+ dolares + ' $')
 
 
 if __name__ == '__main__':
