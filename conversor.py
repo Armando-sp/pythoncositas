@@ -3,7 +3,7 @@ def run():
     precio_dolar= float(4.44)
 
 
-
+    print('tienes '+ dolares + ' $')
 
 
 if __name__ == '__main__':
