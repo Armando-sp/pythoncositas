@@ -5,7 +5,7 @@ def run():
     
 
 
-
+    print('tienes '+ dolares + ' $')
 
 
 if __name__ == '__main__':
