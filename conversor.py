@@ -1,4 +1,4 @@
-def conversor():
+def conversor(tipo_moneda, valor_dolar):
     
 
 def run():
