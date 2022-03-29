@@ -1,3 +1,6 @@
+def conversor(tipo_moneda, valor_dolar):
+    
+
 def run():
     bolivares= float(input('Cuantos pesos tienes?: '))
     precio_dolar= float(4.5)
